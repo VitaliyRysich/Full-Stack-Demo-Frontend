@@ -1,0 +1,119 @@
+[33mcommit f8f7b094c81de99c93a32d54b9f21dba47c49817[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Vitalii <vitaliy.rysich@gmail.com>
+Date:   Sun Feb 7 21:01:48 2021 +0200
+
+    Create feature
+
+[33mcommit 2c8d9a18f9c26c58cc7b6816324178aeaab268c2[m
+Author: Vitalii <vitaliy.rysich@gmail.com>
+Date:   Sun Feb 7 20:34:05 2021 +0200
+
+    Update feature
+
+[33mcommit d4ea1ff13db4fce0bea8630619b66caf4cfb6b5f[m
+Author: Vitalii <vitaliy.rysich@gmail.com>
+Date:   Sat Feb 6 17:54:03 2021 +0200
+
+    Added delete Todo feature
+
+[33mcommit ded96cf6461427f7a6a58670473bbd9f477df97d[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Vitalii <vitaliy.rysich@gmail.com>
+Date:   Sat Feb 6 16:07:58 2021 +0200
+
+    Connecting Angular with Todo List Restful Service
+
+[33mcommit 14f9c17c219d11bd83b774fe84c1d36840256aa0[m
+Author: Vitalii <vitaliy.rysich@gmail.com>
+Date:   Sat Feb 6 14:59:58 2021 +0200
+
+    Calling Http Service with path variable
+
+[33mcommit 6b7ac4f753bed25c6bbd80456ff8f39d74864a8d[m
+Author: Vitalii <vitaliy.rysich@gmail.com>
+Date:   Sat Feb 6 14:48:37 2021 +0200
+
+    Connect Angular with RestApi
+
+[33mcommit d9f19a1e2e1f21a1b6581b06fefd9d8286d05166[m
+Author: Vitalii <vitaliy.rysich@gmail.com>
+Date:   Thu Feb 4 23:04:10 2021 +0200
+
+    securing app
+
+[33mcommit 3765acf1516ce4c0cefb13c0730af335c85002dc[m
+Author: Vitalii <vitaliy.rysich@gmail.com>
+Date:   Thu Feb 4 20:01:13 2021 +0200
+
+    Created logout component
+
+[33mcommit ce230c100aa137f94ccb890b9bc522e399ad68de[m
+Author: Vitalii <vitaliy.rysich@gmail.com>
+Date:   Thu Feb 4 19:35:21 2021 +0200
+
+    Created authentication service
+
+[33mcommit 4976d83e2a2e48d1dbda04df589cd8f06d884dc0[m
+Author: Vitalii <vitaliy.rysich@gmail.com>
+Date:   Thu Feb 4 19:13:49 2021 +0200
+
+    Use RouterLink insted of href
+
+[33mcommit 19120bee34cbf90dfb57519fa585f142ba063d9c[m
+Author: Vitalii <vitaliy.rysich@gmail.com>
+Date:   Thu Feb 4 01:21:29 2021 +0200
+
+    Styling
+
+[33mcommit 92e607814f75b65daf9492dc095ec7423da1fd4a[m
+Author: Vitalii <vitaliy.rysich@gmail.com>
+Date:   Thu Feb 4 01:02:38 2021 +0200
+
+    Created menu with navigation links
+
+[33mcommit 91105721f389bfd97f025b85fb1f9dc9afc7c64f[m
+Author: Vitalii <vitaliy.rysich@gmail.com>
+Date:   Thu Feb 4 00:50:40 2021 +0200
+
+    Created Menu and Footer components, correct bootstrap link
+
+[33mcommit e2bf0fac16e7df1db8a54154b2b073c286888509[m
+Author: Vitalii <vitaliy.rysich@gmail.com>
+Date:   Thu Feb 4 00:29:00 2021 +0200
+
+    Added bootstrap
+
+[33mcommit 127d5f3bee1004e33c0d02ba9ce11bc0e78177c6[m
+Author: Vitalii <vitaliy.rysich@gmail.com>
+Date:   Wed Feb 3 23:57:18 2021 +0200
+
+    Created List todo class
+
+[33mcommit 89e2adbac78cc1d5afa873ebc8a939a23e68558c[m
+Author: Vitalii <vitaliy.rysich@gmail.com>
+Date:   Wed Feb 3 23:40:53 2021 +0200
+
+    Created todo list
+
+[33mcommit c176428435cbb470e8a7aeb5234fc4ad2d50958f[m
+Author: Vitalii <vitaliy.rysich@gmail.com>
+Date:   Wed Feb 3 20:02:28 2021 +0200
+
+    Login and Welcome components added, created routing
+
+[33mcommit 135c294aa313c135e44d6bacb19bc998875efd40[m
+Author: Vitalii <vitaliy.rysich@gmail.com>
+Date:   Wed Feb 3 18:58:26 2021 +0200
+
+    Login component added
+
+[33mcommit 418102ddfd9382e44e4eac7acf7a80b6724f86ed[m
+Author: Vitalii <vitaliy.rysich@gmail.com>
+Date:   Wed Feb 3 18:49:08 2021 +0200
+
+    Welcome component added
+
+[33mcommit d4dba50c74191573265ebcbed2145d5dd1c4b858[m
+Author: Vitalii <vitaliy.rysich@gmail.com>
+Date:   Wed Feb 3 00:48:31 2021 +0200
+
+    first commit

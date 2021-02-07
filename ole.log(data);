@@ -1,0 +1,20 @@
+[33mf8f7b09[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m Create feature
+[33m2c8d9a1[m Update feature
+[33md4ea1ff[m Added delete Todo feature
+[33mded96cf[m[33m ([m[1;31morigin/main[m[33m)[m Connecting Angular with Todo List Restful Service
+[33m14f9c17[m Calling Http Service with path variable
+[33m6b7ac4f[m Connect Angular with RestApi
+[33md9f19a1[m securing app
+[33m3765acf[m Created logout component
+[33mce230c1[m Created authentication service
+[33m4976d83[m Use RouterLink insted of href
+[33m19120be[m Styling
+[33m92e6078[m Created menu with navigation links
+[33m9110572[m Created Menu and Footer components, correct bootstrap link
+[33me2bf0fa[m Added bootstrap
+[33m127d5f3[m Created List todo class
+[33m89e2adb[m Created todo list
+[33mc176428[m Login and Welcome components added, created routing
+[33m135c294[m Login component added
+[33m418102d[m Welcome component added
+[33md4dba50[m first commit
