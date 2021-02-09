@@ -11,8 +11,9 @@ import { ListTodosComponent } from './component/list-todos/list-todos.component'
 import { MenuComponent } from './component/menu/menu.component';
 import { FooterComponent } from './component/footer/footer.component';
 import { LogoutComponent } from './component/logout/logout.component';
-import { HttpClientModule } from '@angular/common/http';
+import { HttpClientModule, HTTP_INTERCEPTORS } from '@angular/common/http';
 import { TodoComponent } from './component/todo/todo.component';
+import { HttpIntercepterBasicAuthService } from './service/http/http-intercepter-basic-auth.service';
 
 @NgModule({
   declarations: [
@@ -32,7 +33,9 @@ import { TodoComponent } from './component/todo/todo.component';
     FormsModule,
     HttpClientModule
   ],
-  providers: [],
+  providers: [
+    {provide: HTTP_INTERCEPTORS, useClass: HttpIntercepterBasicAuthService, multi: true}
+  ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
